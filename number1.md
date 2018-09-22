@@ -1,4 +1,5 @@
 # 이상민의 모든 것.
+![Introducing](C:\Users\poiu6\Desktop\github\Introducing.jpg)
 
 1. ```
    이상민의 마인드맵! 예~
