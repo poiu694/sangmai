@@ -120,5 +120,5 @@
      - 목소리가 예쁜사람
    
 
-![Introducing](C:\Users\poiu6\Desktop\github\Introducing.jpg)
+[![Kakao_Talk_20180922_142412067.jpg](https://i.postimg.cc/2S26Mx0q/Kakao_Talk_20180922_142412067.jpg)](https://postimg.cc/G4Tdsvwr)
 ### 
