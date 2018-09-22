@@ -118,9 +118,8 @@
      - 꼼꼼한 사람
      - 자기관리 잘하는사람
      - 목소리가 예쁜사람
-     
- https://github.com/poiu694/sangmai/blob/master/number1.md
+   
 
 
-
+![Introducing](C:\Users\poiu6\Desktop\github\Introducing.jpg)
 ### 
